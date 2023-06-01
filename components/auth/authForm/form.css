@@ -1,0 +1,42 @@
+
+.Input{
+    margin:20px;
+}
+
+.signup{
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.submitbutton{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.switchAuth{
+    width: 450px;
+    border: 1px solid rgb(88, 88, 179);
+    background-color: rgb(94, 94, 176);
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.error{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+.validate{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
